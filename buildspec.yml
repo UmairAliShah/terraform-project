@@ -23,7 +23,8 @@ phases:
     commands:
       - cd terraform_modules
       - terraform init
-      - terrform plan  
+      - terraform plan
+      - terraform apply -y
   #post_build:
     #commands:
       # - command

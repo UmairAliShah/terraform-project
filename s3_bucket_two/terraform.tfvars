@@ -1,2 +1,2 @@
 bucket_two = "sandox-bucket-two"
-env_dev = "Dev"
+env_dev = "dev"

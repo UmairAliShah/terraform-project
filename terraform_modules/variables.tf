@@ -5,10 +5,10 @@ variable "bucket_two" {
   default = "sandbox-bucket-one"
 }
 variable "env_test" {
-  default = "Test"
+  default = "test"
 }
 
 variable "env_dev" {
-  default = "Dev"
+  default = "dev"
 }
 

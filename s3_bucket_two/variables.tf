@@ -1,7 +1,7 @@
 variable "bucket_two" {
   default = "sandbox-bucket-two"
 }
-variable "env_test" {
+variable "env_dev" {
   default = "dev"
 }
 
